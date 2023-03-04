@@ -35,4 +35,5 @@
   
   The API will take the above input and convert in into a PDF as shown below
 
-    ![image](https://user-images.githubusercontent.com/83765713/222924197-1f21aef6-1d56-4b18-9d77-4a02c24355be.png)
+    ![image](https://user-images.githubusercontent.com/83765713/222924436-538b2c2f-02ea-446f-978d-7956f0ce7511.png)
+
